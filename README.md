@@ -1,1 +1,1 @@
-# python-practice-pe1
+# This repo is my practice for PE1
