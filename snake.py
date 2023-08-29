@@ -1,2 +1,0 @@
-# 001
-print("hsssss")
